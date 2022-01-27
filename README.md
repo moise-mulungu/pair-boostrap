@@ -2,9 +2,9 @@
 
 # Portfolio: Mobile Version
 
-> This is my Portfolio Desktop project.
+> This is our first Boostrap project.
 
-![screenshot](./apScreenshot.png)
+![screenshot](/appScreenshot.png)
 
 On this project, We could learn on how to use Boostrap to make the page faster than using css, we only implemented HTML from scratch.
 
@@ -16,7 +16,7 @@ On this project, We could learn on how to use Boostrap to make the page faster t
 - Github
 
 ## Live Demo
-[link](https://moise-mulungu.github.io/portfolio-mobile-version/)
+[link](file:///home/moise/pair-boostrap/index.html)
 
 ## Author1
 
