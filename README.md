@@ -32,8 +32,7 @@ On this project, We could learn on how to use Boostrap to make the page faster t
 
 - GitHub: [Avlessi Matchoudi](https://github.com/moise-mulungu)
 - Twitter: [Avlessi Matchoudi](https://twitter.com/moise_mulungu)
-- LinkedIn: [Avlessi Matchoudi](https://www.linkedin.com/in/
-mo%C3%AFse-mulungu-a939831b2/)
+- LinkedIn: [Avlessi Matchoudi](https://www.linkedin.com/in/mo%C3%AFse-mulungu-a939831b2/)
 
 ## 🤝 Contributing
 
